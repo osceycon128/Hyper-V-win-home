@@ -1,4 +1,4 @@
-# Hyper-V for Windows Home
+Hyper-V for Windows Home
 
 This file can be used to activate the Hyper-V virtualization software on Windows home branches.
 
